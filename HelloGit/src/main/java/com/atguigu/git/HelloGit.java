@@ -1,0 +1,11 @@
+package com.atguigu.git;
+
+/**
+ * @author Dell
+ * @create 2021-03-09-20:19
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git!");
+    }
+}
